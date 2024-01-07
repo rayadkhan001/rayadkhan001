@@ -1,10 +1,12 @@
-- 👋 Hi, My name is Rayad Hassin Khan and I've had an interest on web design and development since my childhood. I do what I love and I wish the same for you.
-- 👀 I’m interested in full stack web development I create, design, code websites like Blogs magazines news-portals landing pages and more.
-- 🌱 I’m currently learning from the scratch and soon will be a full stack Web Developer.
-<!-- - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
- -->
-<!---
-rayadkhan001/rayadkhan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there, I'm Rayad Hassin Khan. I am a dedicated and results-oriented web development enthusiast with a primary focus on HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, and MySQL.
+
+I have honed my skills and demonstrated a robust understanding of modern web design concepts through creating diverse websites, including those for Blogs, Restaurants, News, Portfolios, WooCommerce sites, and Magazines. 
+
+I also possess a working proficiency in Git version control. I maintain consistent backup practices on GitHub to ensure data integrity and project continuity. 
+
+I am knowledgeable about the inner workings of WordPress, comfortable with file manipulation, and capable of coding from the ground up. I have a fundamental understanding of mobile-first design concepts and cross-browser support. 
+
+Additionally, I have experience in creating custom themes, navigating and using cPanel, and integrating Node.js for enhanced functionality. 
+
+For a comprehensive overview of my work and qualifications, please visit my portfolio: https://www.rayadkhan.fun/portfolio
+
