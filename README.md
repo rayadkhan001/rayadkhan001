@@ -1,12 +1,14 @@
-Hello there, I'm Rayad Hassin Khan. I am a dedicated and results-oriented web development enthusiast with a primary focus on HTML, CSS, Bootstrap, JavaScript, JQuery, PHP, and MySQL.
+Hello, I’m Rayad Hassin Khan 👋
 
-I have honed my skills and demonstrated a robust understanding of modern web design concepts through creating diverse websites, including those for Blogs, Restaurants, News, Portfolios, WooCommerce sites, and Magazines. 
+I’m a dedicated and results-driven web development enthusiast with a strong focus on building responsive, user-friendly websites and web applications.
 
-I also possess a working proficiency in Git version control. I maintain consistent backup practices on GitHub to ensure data integrity and project continuity. 
+I work primarily with HTML, CSS, Bootstrap, Tailwind CSS, DaisyUI, JavaScript, jQuery, PHP, MySQL, and Node.js, and I have experience working with JSON APIs to create dynamic, data-driven applications.
 
-I am knowledgeable about the inner workings of WordPress, comfortable with file manipulation, and capable of coding from the ground up. I have a fundamental understanding of mobile-first design concepts and cross-browser support. 
+I’ve developed a variety of projects, including websites for blogs, restaurants, news platforms, portfolios, WooCommerce stores, and online magazines, which has helped me build a solid understanding of modern web design and development practices.
 
-Additionally, I have experience in creating custom themes, navigating and using cPanel, and integrating Node.js for enhanced functionality. 
+I’m comfortable with Git version control and maintain consistent workflows on GitHub to ensure clean code management, backups, and project continuity.
 
-For a comprehensive overview of my work and qualifications, please visit my portfolio: https://www.rayadkhan.fun/portfolio
+I also have hands-on experience with WordPress, including custom theme development, file manipulation, and working with cPanel. I can build projects from the ground up and follow mobile-first design principles while ensuring cross-browser compatibility.
 
+If you’d like to explore my work in detail, feel free to check out my portfolio:
+👉 https://www.rayadkhan.fun/portfolio
